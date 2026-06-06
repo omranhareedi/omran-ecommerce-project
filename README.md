@@ -11,7 +11,7 @@
 **Store Name:** Narmo
 **Platform Used:** Wix
 **Live Website Link:** https://hareedi17.wixsite.com/narmo
-**GitHub Repository Link:** [Insert Your GitHub Repo Link Here]
+**GitHub Repository Link:** https://github.com/omranhareedi/omran-ecommerce-project
 
 ## Features Implemented
 * **Homepage:** Features the "Narmo" store name, a welcoming anime-themed hero section, and a clear call to action to shop our collections.
