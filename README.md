@@ -29,8 +29,14 @@
 ### 2. Product Page
 ![Product Page Screenshot](images/product_page.png)
 
-### 3. Contact / Cart Page
+### 3. Contact Page
 ![Contact and Cart Page Screenshot](images/contact_page.png)
+
+### 3. Cart Page
+![Contact and Cart Page Screenshot](images/cart_page.png)
+
+### 3. About Us Page
+![Contact and Cart Page Screenshot](images/about_us_page.png)
 
 ## Challenges
 * **Template Customization:** Adapting a photography-based Wix template to fit a vibrant anime/streetwear aesthetic required careful replacement of visual assets and color palette adjustments.
